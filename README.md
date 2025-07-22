@@ -37,7 +37,7 @@ To set up this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/iranboono/Walmart_sales_Analysis_using_SQL_Python.git
+   git clone https://github.com/TarunTarkar/Walmart-Sales-Analysis-Using-SQL-and-Python
    ```
 
 2. **Navigate to the project directory**:
